@@ -2,7 +2,7 @@
     <div class="content-wrapper">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Tambah Player</h4>
+                <h4 class="card-title">Update Player</h4>
                 <div class="row">
                     <div class="col-md-4">
                         <label for="team_id">Nama Tim</label>
@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div class="mt-4">
-                    <button class="btn btn-success btn-block" onclick="checkData()"><b>Submit</b></button>
+                    <button class="btn btn-success btn-block" onclick="checkData()"><b>Update</b></button>
                 </div>
             </div>
         </div>

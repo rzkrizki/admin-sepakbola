@@ -2,7 +2,7 @@
     <div class="content-wrapper">
         <div class="card">
             <div class="card-body">
-                <h4 class="card-title">Tambah Jadwal Pertandingan</h4>
+                <h4 class="card-title">Update Jadwal Pertandingan</h4>
                 <div class="row">
                     <div class="col-md-3">
                         <label for="tanggal_pertandingan">Tanggal Pertandingan</label>
@@ -32,7 +32,7 @@
                     </div>
                 </div>
                 <div class="mt-4">
-                    <button class="btn btn-success btn-block" onclick="checkData()"><b>Submit</b></button>
+                    <button class="btn btn-success btn-block" onclick="checkData()"><b>Update</b></button>
                 </div>
             </div>
         </div>

@@ -177,11 +177,11 @@ class Model_player extends CI_Model
 
             if($result){
                 $data['result'] = $result;
-                $data['message'] = 'Berhasil menambahkan pemain';
+                $data['message'] = 'Berhasil update pemain';
                 $data['status'] = 200;
             }else{
                 $data['result'] = [];
-                $data['message'] = 'Gagal menambahkan pemain';
+                $data['message'] = 'Gagal update pemain';
                 $data['status'] = 500;
             }
         }
